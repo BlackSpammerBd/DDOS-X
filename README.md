@@ -1,7 +1,7 @@
 # ⚡ DDOS-X | The Ultimate DDoS Attack Framework  
 
 ![DDOS-X](https://img.shields.io/badge/DDOS-TOOL-red?style=for-the-badge)  
-![Python](https://img.shields.i-the-badge)  
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/github/license/BlackSpammerBd/DDOS-X?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)  
 
