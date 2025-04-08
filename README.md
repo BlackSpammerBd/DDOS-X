@@ -1,5 +1,6 @@
 # ⚡ DDOS-X | The Ultimate DDoS Attack Framework  
 
+![DDOS-X](https://github.com/BlackSpammerBd/DDOS-X/blob/main/file-UjAuDQLGNvxEtXNxFrudX4%20(1).webp)  <!-- Image URL Here -->
 ![DDOS-X](https://img.shields.io/badge/DDOS-TOOL-red?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/github/license/BlackSpammerBd/DDOS-X?style=for-the-badge)  
@@ -15,15 +16,32 @@
 
 ---
 
-## 🌟 **Key Features**  
-✅ **Ultra-Fast Packet Flooding** with optimized threading  
-✅ **Multiple Attack Vectors** (TCP SYN, UDP, HTTP, ICMP)  
-✅ **AI-Based Attack Algorithm** for maximum efficiency  
-✅ **Spoofing Support** for anonymizing attacks  
-✅ **Automatic Bypass Mechanisms** to evade basic protections  
-✅ **Custom Bandwidth Control** for adjustable power  
-✅ **Cross-Platform Support** (Linux, Termux, Windows)  
-✅ **Open-Source & Customizable** for research & learning  
+### **🚀 Key Features**
+
+#### **🛠️ High-Concurrency Load Testing**
+- Simulate up to **500 concurrent requests** to your server or application.
+- Stress-test your server with high-concurrency traffic to evaluate its performance under heavy load.
+- Supports both **GET** and **POST** HTTP methods for comprehensive testing.
+
+#### **📊 Real-Time Monitoring and Progress Updates**
+- View **real-time updates** on the progress of the test, including the number of requests sent, successes, and failures.
+- Track **response times**, **status codes**, and **request counts** during the test with a live progress bar.
+
+#### **🔍 Advanced Analytics & Reporting**
+- Get detailed analytics after each test, including average, maximum, and minimum response times.
+- Analyze server performance with **percentile breakdowns** (50th, 75th, 90th, 95th, 99th, and 99.9th percentiles).
+- Save all results in a **CSV report** for post-test analysis.
+
+#### **🔐 Error Handling and Logging**
+- Automatically retry failed requests up to a configurable number of times to ensure accuracy.
+- Comprehensive **error logs** are saved to a `.log` file for troubleshooting and deeper analysis.
+
+#### **🔄 Load Pattern Flexibility**
+- Configure and test different load patterns to simulate real-world scenarios.
+- Customizable rate-limiting to avoid overwhelming the server too quickly.
+
+#### **📈 Detailed Status Code Distribution**
+- Track all status codes returned by the server (e.g., 200, 400, 500) and analyze the server's response patterns under load.
 
 ---
 
